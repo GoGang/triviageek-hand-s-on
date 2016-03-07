@@ -4,19 +4,19 @@
 Angular project is located under *gui* folder.
 
 Install grunt dependencies with
-  npm install
+    npm install
 And javascript dependencies with
-  bower install
+    bower install
 
 You can then run grunt server with
-  grunt serve
+    grunt serve
 
 ## 2 - Run Golang project
 
 To run project use
-  make run
+    make run
 To execute test files use
-  make test
+    make test
 
 ## The game
 

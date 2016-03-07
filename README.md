@@ -33,7 +33,7 @@ When Bob joins the game
  
     {"pseudo":"Bob"}
 
-The server answer its name and a startTime so that client can compute remaining seconds before starting
+The server answers the game name and a start time, so that client can compute remaining seconds before starting
 
     {"name":"QaUshs","startTime":"2016-03-07T16:44:24.592546399-05:00","step":0}
 
